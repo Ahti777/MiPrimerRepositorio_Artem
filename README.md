@@ -1,1 +1,1 @@
-"Este es un cambio hecho desde GitHub por Artem."
+"Este es un cambio hecho desde GitHub por Artem. "
